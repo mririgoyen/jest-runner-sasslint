@@ -1,0 +1,17 @@
+{
+  "name": "jest-runner-sasslint",
+  "version": "0.1.0",
+  "description": "Sass Lint runner for Jest",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goyney/jest-runner-sasslint.git"
+  },
+  "author": "Michael Irigoyen <goyney@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "create-jest-runner": "^0.3.1",
+    "sass-lint": "^1.12.1"
+  }
+}
