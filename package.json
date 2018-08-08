@@ -9,6 +9,12 @@
   },
   "author": "Michael Irigoyen <goyney@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "jest",
+    "sass",
+    "scss",
+    "line"
+  ],
   "private": false,
   "dependencies": {
     "create-jest-runner": "^0.4.0",
