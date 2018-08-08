@@ -141,9 +141,9 @@ core-util-is@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
 
-create-jest-runner@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/create-jest-runner/-/create-jest-runner-0.3.1.tgz#c4cd197a3fe3dcfff3f0e1b2c19f7cc562ac6928"
+create-jest-runner@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/create-jest-runner/-/create-jest-runner-0.4.0.tgz#7a9419e9410484aec5048691c19745a4285baf45"
   dependencies:
     jest-worker "^22.0.0"
     throat "^4.1.0"
