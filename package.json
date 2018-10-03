@@ -1,6 +1,6 @@
 {
   "name": "jest-runner-sasslint",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Sass Lint runner for Jest",
   "main": "src/index.js",
   "repository": {
@@ -17,7 +17,7 @@
   ],
   "private": false,
   "dependencies": {
-    "create-jest-runner": "^0.4.0",
+    "create-jest-runner": "^0.4.1",
     "sass-lint": "^1.12.1"
   }
 }
